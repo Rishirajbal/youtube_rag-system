@@ -67,7 +67,7 @@ youtube_rag-system/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/slayerdemon978/youtube_rag-system.git
+   git clone https://github.com/Rishirajbal/youtube_rag-system.git
    cd youtube_rag-system
    ```
 
